@@ -1,0 +1,10 @@
+.site-card-border-less-wrapper {
+    padding: 1rem;
+    background: #ececec;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
